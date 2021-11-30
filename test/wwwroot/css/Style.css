@@ -1,0 +1,8 @@
+﻿.post_media {
+    background-color: #CD5C5C;
+}
+
+.post_picture {
+    width: 1000px;
+    object-fit: contain;
+}
